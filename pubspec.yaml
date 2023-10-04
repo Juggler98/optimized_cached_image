@@ -18,6 +18,6 @@ dependencies:
   sprintf: ^7.0.0
   octo_image: ^1.0.0
   image: ^4.0.17
-  file: ^6.1.0
+  file: ^7.0.0
 dev_dependencies:
   test: ^1.16.8

@@ -15,7 +15,7 @@ dependencies:
   url_launcher: ^6.0.9
   optimized_cached_image:
     path: ../
-  file: ^6.1.2
+  file: ^7.0.0
 
 dev_dependencies:
   flutter_test:
