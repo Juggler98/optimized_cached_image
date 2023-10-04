@@ -142,14 +142,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_blurhash:
-    dependency: transitive
-    description:
-      name: flutter_blurhash
-      sha256: "3525f13a7c280886d8119d7b8cbb88918ff0542bb7c41acc5674c2be93d1f8c0"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.6.0"
   flutter_cache_manager:
     dependency: "direct main"
     description:
@@ -303,10 +295,10 @@ packages:
     dependency: "direct main"
     description:
       name: octo_image
-      sha256: c4723cc22c047ba56f58a35402b9b9f984dfb91d6b2e92809433a9647312cbf8
+      sha256: "45b40f99622f11901238e18d48f5f12ea36426d8eced9f4cbf58479c7aa2430d"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "2.0.0"
   package_config:
     dependency: transitive
     description:
@@ -674,4 +666,4 @@ packages:
     version: "3.1.0"
 sdks:
   dart: ">=3.1.0-185.0.dev <4.0.0"
-  flutter: ">=3.3.0"
+  flutter: ">=3.7.0"
